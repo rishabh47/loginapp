@@ -1,0 +1,7 @@
+#Wed Jun 28 13:45:09 IST 2017
+base.0=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_170b8c9c00be89870f51e10335b2d1bdb9cab939
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de29ee35123eda9dc25b17bde3ff31c6e229ec2b\\classes.dex
+base.1=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de29ee35123eda9dc25b17bde3ff31c6e229ec2b
+file.0=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_170b8c9c00be89870f51e10335b2d1bdb9cab939\\classes.dex

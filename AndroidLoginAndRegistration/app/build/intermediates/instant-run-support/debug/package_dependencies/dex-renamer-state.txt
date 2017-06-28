@@ -1,0 +1,22 @@
+#Wed Jun 28 12:33:38 IST 2017
+renamed.6=classes2.dex
+renamed.5=classes6.dex
+renamed.4=classes7.dex
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes5.dex
+base.6=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8e6e2663d007cb08ac3a1198e1256480d39d4f99
+base.5=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_97b78f06fc1842f17ed2839e38745b8e8ade7bb7
+base.4=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_d1c71cc311e8028279a4e3f6657a498ca87a5bda
+base.3=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b91b3e6ce81296261e8ff9168d8acf922a8f71a8
+base.2=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bc782b58f1e1f27e3f1e2b2e43e5bd9b1a8ad35c
+base.1=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_78bd4320b84cf131d4497b5885062460b99e3611
+base.0=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e5471a169ac155c5d8bf0e3b1b2084354346dbd3
+file.6=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8e6e2663d007cb08ac3a1198e1256480d39d4f99\\classes.dex
+file.5=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_97b78f06fc1842f17ed2839e38745b8e8ade7bb7\\classes.dex
+file.4=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_d1c71cc311e8028279a4e3f6657a498ca87a5bda\\classes.dex
+file.3=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b91b3e6ce81296261e8ff9168d8acf922a8f71a8\\classes.dex
+file.2=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bc782b58f1e1f27e3f1e2b2e43e5bd9b1a8ad35c\\classes.dex
+file.1=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_78bd4320b84cf131d4497b5885062460b99e3611\\classes.dex
+file.0=D\:\\S1\\Rishabh Arora\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e5471a169ac155c5d8bf0e3b1b2084354346dbd3\\classes.dex
